@@ -35,6 +35,7 @@ jobs:
       run: |
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git pull --rebase --autostash || echo "Nothing to rebase"
         git add prices.json history.csv || echo "No files to add"
         git commit -m "Update price history" || echo "Nothing to commit"
         git push origin HEAD:${{ github.ref }} || echo "Push skipped"
