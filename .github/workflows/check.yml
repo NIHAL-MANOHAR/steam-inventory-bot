@@ -5,6 +5,9 @@ on:
     - cron: "*/30 * * * *"   # ✅ Runs every 30 minutes
   workflow_dispatch:        # ✅ Manual trigger
 
+permissions:
+  contents: write           # ✅ REQUIRED so GitHub Actions can push commits
+
 jobs:
   run-bot:
     runs-on: ubuntu-latest
@@ -30,8 +33,8 @@ jobs:
 
     - name: Commit updated JSON + CSV history
       run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-        git add prices.json history.csv || true
-        git commit -m "Update price history" || true
-        git push || true
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add prices.json history.csv || echo "No files to add"
+        git commit -m "Update price history" || echo "Nothing to commit"
+        git push origin HEAD:${{ github.ref }} || echo "Push skipped"
