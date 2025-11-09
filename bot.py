@@ -201,7 +201,7 @@ def main():
 
         hours_since = (now - last_update) / 3600 if last_update else None
 
-        if last_update and hours_since < 12:
+        if last_update and hours_since < 1:
             print(f"  ⏩ Skipping (updated {hours_since:.1f} hours ago)")
             continue
 
