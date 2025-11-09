@@ -206,13 +206,7 @@ def main():
         print(f"  ✅ Current price: ₹{price:.2f}")
         append_history(item, price)
 
-        if item not in prices:
-            prices[item] = {"price": price, "last_update": now}
-            save_json(PRICE_CACHE, prices)
-            print("  🆕 First-time price — saved.")
-            continue
-
-        old = prices[item].get("price", price)
+        old = entry.get("price", price) if isinstance(entry, dict) else price
         if old == 0:
             old = price
         change = (price - old) / old
@@ -232,14 +226,11 @@ def main():
 
         # --- 3-hour average check ---
         avg_3hr = get_3hr_avg(item)
-        if avg_3hr is not None:
-            print(f"  3-hour avg price: ₹{avg_3hr:.2f}")
-            if price > avg_3hr:
-                direction = "▲"
-            elif price < avg_3hr:
-                direction = "▼"
-            else:
-                direction = "▬"
+        if avg_3hr is None:
+            avg_3hr = price  # fallback if no history yet
+        print(f"  3-hour avg price: ₹{avg_3hr:.2f}")
+        if avg_3hr != price:
+            direction = "▲" if price > avg_3hr else "▼" if price < avg_3hr else "▬"
             msg_3hr = (
                 f"{direction} **3-Hour Avg Check**\n"
                 f"Item: `{item}`\n"
@@ -248,7 +239,8 @@ def main():
             )
             send_3hr_alert(msg_3hr)
 
-        prices[item] = {"price": price, "last_update": now}
+        # --- Save current price and 3-hour avg in JSON ---
+        prices[item] = {"price": price, "last_update": now, "avg_3hr": avg_3hr}
         save_json(PRICE_CACHE, prices)
 
     print("\n========== ✅ All Done! ==========")
