@@ -15,8 +15,8 @@ from tqdm import tqdm  # ✅ progress bar
 
 # === CONFIG ===
 CURRENCY = 24            # ✅ INR (Indian Rupees)
-PRICE_CACHE = "prices.json"
-HISTORY_CSV = "history.csv"
+PRICE_CACHE = ".data/prices.json"
+HISTORY_CSV = ".data/history.csv"
 ITEMS_FILE = "items.txt"
 STEAM_ID_ENV = "STEAM_ID64"      # secret name on GitHub
 DISCORD_WEBHOOK_ENV = "DISCORD_WEBHOOK"
