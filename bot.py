@@ -2,7 +2,7 @@
 """
 steam-price-bot - tracks Steam market prices for items (items.txt OR inventory)
 Sends Discord alerts (DISCORD_WEBHOOK) on >=10% price moves.
-Also sends 3-hour average alerts to DISCORD_WEBHOOK_3HR.
+Also sends 3-hour average alerts to DISCORD_WEBHOOK_3HR (>=5% change).
 Designed for GitHub Actions usage.
 """
 
@@ -24,7 +24,8 @@ DISCORD_WEBHOOK_ENV = "DISCORD_WEBHOOK"
 DISCORD_WEBHOOK_3HR_ENV = "DISCORD_WEBHOOK_3HR"  # new webhook
 DELAY_SEC = 1.2
 RETRY_BASE = 2
-MIN_ALERT_PCT = 0.10
+MIN_ALERT_PCT = 0.10       # 10% for price change alert
+MIN_3HR_ALERT_PCT = 0.05   # 5% for 3-hour average alert
 # ==============
 
 STEAM_ID = os.getenv(STEAM_ID_ENV)
@@ -108,8 +109,7 @@ def save_json(path, data):
 
 def append_history(item, price):
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-    safe_item = item.replace('"', "'")
-    line = f'{ts},{safe_item},{price}\n'  # remove quotes to avoid parsing issues
+    line = f'{ts},{item},{price}\n'  # no quotes to avoid parsing issues
 
     if not os.path.exists(HISTORY_CSV):
         with open(HISTORY_CSV, "w", encoding="utf-8") as f:
@@ -229,13 +229,18 @@ def main():
         if avg_3hr is None:
             avg_3hr = price  # fallback
         print(f"  3-hour avg price: ₹{avg_3hr:.2f}")
-        if price != avg_3hr:
-            direction = "▲" if price > avg_3hr else "▼" if price < avg_3hr else "▬"
+
+        # Trigger only if >=5% change from 3-hour average
+        change_3hr = (price - avg_3hr) / avg_3hr
+        if abs(change_3hr) >= MIN_3HR_ALERT_PCT:
+            direction = "▲" if change_3hr > 0 else "▼"
+            pct_3hr = round(change_3hr * 100, 2)
             msg_3hr = (
-                f"{direction} **3-Hour Avg Check**\n"
+                f"{direction} **3-Hour Avg Alert (INR)**\n"
                 f"Item: `{item}`\n"
                 f"Current price: ₹{price:.2f}\n"
-                f"3-hour avg: ₹{avg_3hr:.2f}"
+                f"3-hour avg: ₹{avg_3hr:.2f}\n"
+                f"Change: **{pct_3hr}%**"
             )
             send_3hr_alert(msg_3hr)
 
