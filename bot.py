@@ -109,11 +109,11 @@ def save_json(path, data):
 def append_history(item, price):
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     safe_item = item.replace('"', "'")
-    line = f'"{ts}","{safe_item}",{price}\n'
+    line = f'{ts},{safe_item},{price}\n'  # remove quotes to avoid parsing issues
 
     if not os.path.exists(HISTORY_CSV):
         with open(HISTORY_CSV, "w", encoding="utf-8") as f:
-            f.write('"timestamp","item","price"\n')
+            f.write("timestamp,item,price\n")
 
     with open(HISTORY_CSV, "a", encoding="utf-8") as f:
         f.write(line)
@@ -167,15 +167,15 @@ def get_3hr_avg(item):
         next(f)  # skip header
         for line in f:
             ts_str, line_item, price_str = line.strip().split(",")
-            line_item = line_item.strip('"')
+            line_item = line_item.strip()
             if line_item != item:
                 continue
-            ts = datetime.strptime(ts_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
-            if ts.timestamp() >= three_hours_ago:
-                try:
+            try:
+                ts = datetime.strptime(ts_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+                if ts.timestamp() >= three_hours_ago:
                     prices_last_3hr.append(float(price_str))
-                except:
-                    continue
+            except:
+                continue
     if prices_last_3hr:
         return sum(prices_last_3hr)/len(prices_last_3hr)
     return None
@@ -190,9 +190,9 @@ def main():
 
     for idx, item in enumerate(tqdm(items, desc="Checking Prices", unit="item"), start=1):
         print(f"\n--- [{idx}/{len(items)}] Processing item: {item} ---")
-        entry = prices.get(item)
+        entry = prices.get(item, {})
         now = time.time()
-        last_update = entry.get("last_update", 0) if isinstance(entry, dict) else 0
+        last_update = entry.get("last_update", 0)
         hours_since = (now - last_update) / 3600 if last_update else None
         if last_update and hours_since < 1:
             print(f"  ⏩ Skipping (updated {hours_since:.1f} hours ago)")
@@ -206,7 +206,7 @@ def main():
         print(f"  ✅ Current price: ₹{price:.2f}")
         append_history(item, price)
 
-        old = entry.get("price", price) if isinstance(entry, dict) else price
+        old = entry.get("price", price)
         if old == 0:
             old = price
         change = (price - old) / old
@@ -227,9 +227,9 @@ def main():
         # --- 3-hour average check ---
         avg_3hr = get_3hr_avg(item)
         if avg_3hr is None:
-            avg_3hr = price  # fallback if no history yet
+            avg_3hr = price  # fallback
         print(f"  3-hour avg price: ₹{avg_3hr:.2f}")
-        if avg_3hr != price:
+        if price != avg_3hr:
             direction = "▲" if price > avg_3hr else "▼" if price < avg_3hr else "▬"
             msg_3hr = (
                 f"{direction} **3-Hour Avg Check**\n"
