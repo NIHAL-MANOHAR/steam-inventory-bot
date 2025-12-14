@@ -6,7 +6,7 @@
   },
   "UMP-45 | Facility Dark (Well-Worn)": {
     "price": 3.0,
-    "last_update": 1765704442.2955902,
+    "last_update": 1765708054.4878514,
     "avg_3hr": 3.0
   },
   "Recoil Case": {
@@ -16,28 +16,28 @@
   },
   "Fracture Case": {
     "price": 58.0,
-    "last_update": 1765704444.9998825,
+    "last_update": 1765708057.3521152,
     "avg_3hr": 58.333333333333336
   },
   "Sticker | Hydro Wave": {
-    "price": 31.0,
-    "last_update": 1765704433.3275487,
-    "avg_3hr": 31.0
+    "price": 30.0,
+    "last_update": 1765708045.099697,
+    "avg_3hr": 30.666666666666668
   },
   "Sticker | Bolt Charge": {
     "price": 49.0,
-    "last_update": 1765704434.6680126,
+    "last_update": 1765708046.5034368,
     "avg_3hr": 49.0
   },
   "Sticker | Winding Scorch": {
     "price": 32.0,
-    "last_update": 1765704431.9917243,
-    "avg_3hr": 32.666666666666664
+    "last_update": 1765708043.691582,
+    "avg_3hr": 32.333333333333336
   },
   "Sticker | Bolt Strike": {
     "price": 24.0,
-    "last_update": 1765704446.3546033,
-    "avg_3hr": 24.333333333333332
+    "last_update": 1765708058.7639527,
+    "avg_3hr": 24.0
   },
   "Sticker | Boom Blast (Glitter)": {
     "price": 20.0,
@@ -65,8 +65,8 @@
     "avg_3hr": 6.0
   },
   "Sticker | Boom Epicenter (Glitter)": {
-    "price": 19.0,
-    "last_update": 1765704426.5111234,
+    "price": 18.0,
+    "last_update": 1765708037.7184253,
     "avg_3hr": 18.666666666666668
   },
   "Sticker | Hot Rod Heat": {
@@ -76,23 +76,23 @@
   },
   "Sticker | Bolt Energy": {
     "price": 11.0,
-    "last_update": 1765704425.1620364,
+    "last_update": 1765708035.9934325,
     "avg_3hr": 11.0
   },
   "Sticker | Scorch Loop": {
-    "price": 26.0,
-    "last_update": 1765704427.850413,
+    "price": 27.0,
+    "last_update": 1765708039.1259418,
     "avg_3hr": 26.666666666666668
   },
   "Sticker | Hydro Stream": {
     "price": 19.0,
-    "last_update": 1765704429.198517,
-    "avg_3hr": 19.666666666666668
+    "last_update": 1765708040.7340417,
+    "avg_3hr": 19.333333333333332
   },
   "Sticker | Boom Trail (Glitter)": {
     "price": 38.0,
-    "last_update": 1765704423.68562,
-    "avg_3hr": 38.666666666666664
+    "last_update": 1765708034.4351234,
+    "avg_3hr": 38.333333333333336
   },
   "Sticker | Winding Scorch (Foil)": {
     "price": 514.0,
@@ -100,8 +100,8 @@
     "avg_3hr": 516.0
   },
   "Sticker | Hydro Geyser": {
-    "price": 10.0,
-    "last_update": 1765704437.503068,
+    "price": 11.0,
+    "last_update": 1765708049.4418778,
     "avg_3hr": 10.666666666666666
   },
   "Zeus x27 | Swamp DDPAT (Minimal Wear)": {
@@ -116,13 +116,13 @@
   },
   "Sticker | Boom Detonation": {
     "price": 7.0,
-    "last_update": 1765704430.667496,
+    "last_update": 1765708042.2798975,
     "avg_3hr": 7.0
   },
   "Sticker | Scorch Loop (Reverse)": {
-    "price": 22.0,
-    "last_update": 1765704440.7209396,
-    "avg_3hr": 22.0
+    "price": 21.0,
+    "last_update": 1765708053.0704412,
+    "avg_3hr": 21.666666666666668
   },
   "Sticker | Boom Detonation (Glitter)": {
     "price": 23.0,
@@ -131,12 +131,12 @@
   },
   "Sticker | High Heat": {
     "price": 106.0,
-    "last_update": 1765704436.006921,
-    "avg_3hr": 107.33333333333333
+    "last_update": 1765708047.9115922,
+    "avg_3hr": 106.66666666666667
   },
   "Sticker | Boom Epicenter": {
     "price": 6.0,
-    "last_update": 1765704439.3530152,
+    "last_update": 1765708051.6699476,
     "avg_3hr": 6.0
   },
   "Sticker | Bolt Energy (Foil)": {
@@ -150,13 +150,13 @@
     "avg_3hr": 499.3333333333333
   },
   "Sticker | Rainbow Route (Holo)": {
-    "price": 206.0,
-    "last_update": 1765704422.3413014,
+    "price": 203.0,
+    "last_update": 1765708032.7375617,
     "avg_3hr": 206.0
   },
   "Sticker | Boom Trail": {
     "price": 13.0,
-    "last_update": 1765704443.6588638,
+    "last_update": 1765708055.9062884,
     "avg_3hr": 13.0
   },
   "Sticker | Bolt Strike (Foil)": {
@@ -270,9 +270,9 @@
     "avg_3hr": 6.0
   },
   "Sticker | Digi-Strike (Lenticular)": {
-    "price": 778.0,
-    "last_update": 1765704420.8716276,
-    "avg_3hr": 777.3333333333334
+    "price": 772.0,
+    "last_update": 1765708031.3275049,
+    "avg_3hr": 775.6666666666666
   },
   "Sticker | T Tracks (Glitter)": {
     "price": 23.0,
@@ -851,12 +851,12 @@
   },
   "SG 553 | Basket Halftone (Field-Tested)": {
     "price": 8.0,
-    "last_update": 1765704417.8276827,
+    "last_update": 1765708028.1766424,
     "avg_3hr": 8.0
   },
   "Dreams & Nightmares Case": {
     "price": 161.0,
-    "last_update": 1765704419.3092995,
-    "avg_3hr": 165.33333333333334
+    "last_update": 1765708029.6514173,
+    "avg_3hr": 163.0
   }
 }
