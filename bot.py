@@ -160,25 +160,37 @@ def fetch_price_for_item(item_name):
 def get_3hr_avg(item):
     if not os.path.exists(HISTORY_CSV):
         return None
+
     now = datetime.now(timezone.utc)
-    three_hours_ago = now.timestamp() - 3*3600
+    three_hours_ago = now.timestamp() - 3 * 3600
     prices_last_3hr = []
+
     with open(HISTORY_CSV, "r", encoding="utf-8") as f:
         next(f)  # skip header
         for line in f:
-            ts_str, line_item, price_str = line.strip().split(",")
-            line_item = line_item.strip()
+            parts = line.strip().split(",", 2)
+            if len(parts) != 3:
+                continue
+
+            ts_str, line_item, price_str = parts
             if line_item != item:
                 continue
+
             try:
-                ts = datetime.strptime(ts_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=timezone.utc)
+                ts = datetime.strptime(
+                    ts_str, "%Y-%m-%d %H:%M:%S"
+                ).replace(tzinfo=timezone.utc)
+
                 if ts.timestamp() >= three_hours_ago:
                     prices_last_3hr.append(float(price_str))
             except:
                 continue
+
     if prices_last_3hr:
-        return sum(prices_last_3hr)/len(prices_last_3hr)
+        return sum(prices_last_3hr) / len(prices_last_3hr)
+
     return None
+
 
 def main():
     print("========== Steam Price Bot Starting ==========")
