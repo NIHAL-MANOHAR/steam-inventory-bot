@@ -806,52 +806,52 @@
   },
   "Souvenir UMP-45 | Scorched (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1767479197.2446008,
+    "last_update": 1767483804.0468855,
     "avg_3hr": 3.0
   },
   "Sawed-Off | Origami (Battle-Scarred)": {
     "price": 24.0,
-    "last_update": 1767479198.6601372,
-    "avg_3hr": 24.333333333333332
+    "last_update": 1767483805.5029697,
+    "avg_3hr": 24.0
   },
   "Nova | Candy Apple (Minimal Wear)": {
     "price": 12.0,
-    "last_update": 1767479200.0190153,
+    "last_update": 1767483806.877861,
     "avg_3hr": 12.0
   },
   "Negev | Dazzle (Field-Tested)": {
-    "price": 33.0,
-    "last_update": 1767479201.397748,
-    "avg_3hr": 34.0
+    "price": 32.0,
+    "last_update": 1767483808.2700503,
+    "avg_3hr": 32.666666666666664
   },
   "MP7 | Armor Core (Minimal Wear)": {
     "price": 35.0,
-    "last_update": 1767479202.785596,
-    "avg_3hr": 34.333333333333336
+    "last_update": 1767483809.6769524,
+    "avg_3hr": 35.0
   },
   "Sealed Graffiti | Eat It (Frog Green)": {
     "price": 3.0,
-    "last_update": 1767479204.1507142,
+    "last_update": 1767483811.0403287,
     "avg_3hr": 3.0
   },
   "PP-Bizon | Night Ops (Field-Tested)": {
     "price": 5.0,
-    "last_update": 1767479205.547345,
+    "last_update": 1767483812.403943,
     "avg_3hr": 5.333333333333333
   },
   "Sealed Graffiti | Chess King (Dust Brown)": {
     "price": 3.0,
-    "last_update": 1767479207.4430296,
+    "last_update": 1767483814.056666,
     "avg_3hr": 3.0
   },
   "USP-S | Forest Leaves (Field-Tested)": {
     "price": 6.0,
-    "last_update": 1767479194.0710526,
-    "avg_3hr": 6.333333333333333
+    "last_update": 1767483801.228128,
+    "avg_3hr": 6.0
   },
   "Recoil Case": {
     "price": 38.0,
-    "last_update": 1767479195.7814193,
-    "avg_3hr": 37.333333333333336
+    "last_update": 1767483802.6581712,
+    "avg_3hr": 37.666666666666664
   }
 }
