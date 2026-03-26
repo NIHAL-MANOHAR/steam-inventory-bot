@@ -868,5 +868,15 @@
     "price": 44.0,
     "last_update": 1774554951.3224666,
     "avg_3hr": 42.0
+  },
+  "PP-Bizon | Thermal Currents (Field-Tested)": {
+    "price": 3.0,
+    "last_update": 1774557837.9064333,
+    "avg_3hr": 3.0
+  },
+  "Sealed Genesis Terminal": {
+    "price": 38.0,
+    "last_update": 1774557839.3383741,
+    "avg_3hr": 38.0
   }
 }
