@@ -1,872 +1,872 @@
 {
   "PP-Bizon | Thermal Currents (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635589.1644247,
+    "last_update": 1782645136.8700423,
     "avg_3hr": 3.0
   },
   "Sealed Genesis Terminal": {
     "price": 14.0,
-    "last_update": 1782635590.6270502,
+    "last_update": 1782645138.4558713,
     "avg_3hr": 14.0
   },
   "PP-Bizon | Wood Block Camo (Minimal Wear)": {
-    "price": 2.91,
-    "last_update": 1782635592.0896692,
-    "avg_3hr": 2.91
+    "price": 3.0,
+    "last_update": 1782645139.955236,
+    "avg_3hr": 2.955
   },
   "Revolution Case": {
-    "price": 36.0,
-    "last_update": 1782635593.5648727,
-    "avg_3hr": 36.0
+    "price": 33.96,
+    "last_update": 1782645141.4797363,
+    "avg_3hr": 34.980000000000004
   },
   "Sealed Graffiti | Karambit (Blood Red)": {
-    "price": 4.0,
-    "last_update": 1782635595.0381935,
-    "avg_3hr": 4.0
+    "price": 3.24,
+    "last_update": 1782645142.9832368,
+    "avg_3hr": 3.62
   },
   "USP-S | Forest Leaves (Field-Tested)": {
-    "price": 8.0,
-    "last_update": 1782635596.573097,
-    "avg_3hr": 8.0
+    "price": 7.0,
+    "last_update": 1782645144.9485097,
+    "avg_3hr": 7.5
   },
   "Recoil Case": {
-    "price": 44.25,
-    "last_update": 1782635598.0449915,
-    "avg_3hr": 44.25
+    "price": 43.17,
+    "last_update": 1782645146.8721323,
+    "avg_3hr": 43.71
   },
   "SG 553 | Basket Halftone (Field-Tested)": {
-    "price": 5.0,
-    "last_update": 1782635599.5093703,
-    "avg_3hr": 5.0
+    "price": 3.0,
+    "last_update": 1782645148.4076607,
+    "avg_3hr": 4.0
   },
   "Sticker | Digi-Strike (Lenticular)": {
-    "price": 597.0,
-    "last_update": 1782635601.2540417,
-    "avg_3hr": 597.0
+    "price": 579.0,
+    "last_update": 1782645150.4589705,
+    "avg_3hr": 588.0
   },
   "Sticker | Rainbow Route (Holo)": {
-    "price": 160.0,
-    "last_update": 1782635602.7388916,
-    "avg_3hr": 160.0
+    "price": 164.0,
+    "last_update": 1782645151.9840462,
+    "avg_3hr": 162.0
   },
   "Sticker | Boom Trail (Glitter)": {
-    "price": 30.0,
-    "last_update": 1782635604.3568194,
-    "avg_3hr": 30.0
+    "price": 28.84,
+    "last_update": 1782645153.5310292,
+    "avg_3hr": 29.42
   },
   "Sticker | Bolt Energy": {
     "price": 6.0,
-    "last_update": 1782635605.8476224,
+    "last_update": 1782645155.072327,
     "avg_3hr": 6.0
   },
   "Sticker | Boom Epicenter (Glitter)": {
-    "price": 13.0,
-    "last_update": 1782635607.5768635,
-    "avg_3hr": 13.0
+    "price": 11.46,
+    "last_update": 1782645156.6028082,
+    "avg_3hr": 12.23
   },
   "Sticker | Scorch Loop": {
-    "price": 20.0,
-    "last_update": 1782635609.0868936,
-    "avg_3hr": 20.0
+    "price": 19.0,
+    "last_update": 1782645158.5533953,
+    "avg_3hr": 19.5
   },
   "Sticker | Hydro Stream": {
-    "price": 11.0,
-    "last_update": 1782635610.684959,
-    "avg_3hr": 11.0
+    "price": 14.0,
+    "last_update": 1782645160.0943804,
+    "avg_3hr": 12.5
   },
   "Sticker | Boom Detonation": {
-    "price": 3.31,
-    "last_update": 1782635612.3425689,
-    "avg_3hr": 3.31
+    "price": 4.0,
+    "last_update": 1782645162.0822682,
+    "avg_3hr": 3.6550000000000002
   },
   "Sticker | Winding Scorch": {
-    "price": 20.55,
-    "last_update": 1782635613.835218,
-    "avg_3hr": 20.55
+    "price": 22.0,
+    "last_update": 1782645166.029456,
+    "avg_3hr": 21.275
   },
   "Sticker | Hydro Wave": {
-    "price": 26.0,
-    "last_update": 1782635615.3133233,
-    "avg_3hr": 26.0
+    "price": 26.62,
+    "last_update": 1782645167.5655043,
+    "avg_3hr": 26.310000000000002
   },
   "Sticker | Bolt Charge": {
     "price": 35.0,
-    "last_update": 1782635616.817475,
+    "last_update": 1782645169.0847638,
     "avg_3hr": 35.0
   },
   "Sticker | High Heat": {
-    "price": 96.0,
-    "last_update": 1782635618.4240296,
-    "avg_3hr": 96.0
+    "price": 101.0,
+    "last_update": 1782645170.618632,
+    "avg_3hr": 98.5
   },
   "Sticker | Hydro Geyser": {
     "price": 7.0,
-    "last_update": 1782635650.6830862,
+    "last_update": 1782645202.8385587,
     "avg_3hr": 7.0
   },
   "Sticker | Boom Epicenter": {
-    "price": 4.0,
-    "last_update": 1782635652.1730115,
-    "avg_3hr": 4.0
+    "price": 3.27,
+    "last_update": 1782645204.3875425,
+    "avg_3hr": 3.635
   },
   "Sticker | Scorch Loop (Reverse)": {
-    "price": 12.0,
-    "last_update": 1782635653.795408,
-    "avg_3hr": 12.0
+    "price": 13.0,
+    "last_update": 1782645206.3409765,
+    "avg_3hr": 12.5
   },
   "UMP-45 | Facility Dark (Well-Worn)": {
-    "price": 3.0,
-    "last_update": 1782635655.429527,
-    "avg_3hr": 3.0
+    "price": 2.92,
+    "last_update": 1782645207.8757436,
+    "avg_3hr": 2.96
   },
   "Sticker | Boom Trail": {
     "price": 9.0,
-    "last_update": 1782635656.936105,
+    "last_update": 1782645209.4174914,
     "avg_3hr": 9.0
   },
   "Fracture Case": {
-    "price": 76.07,
-    "last_update": 1782635658.4237647,
-    "avg_3hr": 76.07
+    "price": 72.78,
+    "last_update": 1782645210.948673,
+    "avg_3hr": 74.425
   },
   "Sticker | Bolt Strike": {
-    "price": 16.0,
-    "last_update": 1782635659.9102638,
-    "avg_3hr": 16.0
+    "price": 15.0,
+    "last_update": 1782645212.4671817,
+    "avg_3hr": 15.5
   },
   "Sticker | Boom Blast (Glitter)": {
-    "price": 13.0,
-    "last_update": 1782635661.387564,
-    "avg_3hr": 13.0
+    "price": 12.0,
+    "last_update": 1782645214.0077376,
+    "avg_3hr": 12.5
   },
   "MAC-10 | Storm Camo (Field-Tested)": {
-    "price": 2.83,
-    "last_update": 1782635663.9072387,
-    "avg_3hr": 2.83
+    "price": 3.0,
+    "last_update": 1782645215.54588,
+    "avg_3hr": 2.915
   },
   "Sticker Capsule": {
-    "price": 83.17,
-    "last_update": 1782635665.5384738,
-    "avg_3hr": 83.17
+    "price": 93.0,
+    "last_update": 1782645217.0779781,
+    "avg_3hr": 88.08500000000001
   },
   "Sticker | Eyes In The Sky (Foil)": {
-    "price": 211.0,
-    "last_update": 1782635667.0241268,
-    "avg_3hr": 211.0
+    "price": 214.0,
+    "last_update": 1782645219.1524167,
+    "avg_3hr": 212.5
   },
   "Sticker | Boom Blast": {
-    "price": 3.28,
-    "last_update": 1782635668.502671,
-    "avg_3hr": 3.28
+    "price": 3.25,
+    "last_update": 1782645220.697662,
+    "avg_3hr": 3.2649999999999997
   },
   "Sticker | Hot Rod Heat": {
-    "price": 10.0,
-    "last_update": 1782635669.9770875,
-    "avg_3hr": 10.0
+    "price": 9.13,
+    "last_update": 1782645222.2436347,
+    "avg_3hr": 9.565000000000001
   },
   "Sticker | Winding Scorch (Foil)": {
-    "price": 358.0,
-    "last_update": 1782635671.4542823,
-    "avg_3hr": 358.0
+    "price": 380.0,
+    "last_update": 1782645223.7813878,
+    "avg_3hr": 369.0
   },
   "Zeus x27 | Swamp DDPAT (Minimal Wear)": {
     "price": 3.0,
-    "last_update": 1782635672.930853,
+    "last_update": 1782645225.3209183,
     "avg_3hr": 3.0
   },
   "Sticker | Boom Detonation (Glitter)": {
-    "price": 14.49,
-    "last_update": 1782635674.4056458,
-    "avg_3hr": 14.49
+    "price": 14.18,
+    "last_update": 1782645226.8418796,
+    "avg_3hr": 14.335
   },
   "Sticker | Bolt Energy (Foil)": {
     "price": 125.0,
-    "last_update": 1782635676.071598,
+    "last_update": 1782645228.3738914,
     "avg_3hr": 125.0
   },
   "Sticker | Bolt Charge (Foil)": {
-    "price": 380.0,
-    "last_update": 1782635677.5526996,
-    "avg_3hr": 380.0
+    "price": 378.0,
+    "last_update": 1782645229.901134,
+    "avg_3hr": 379.0
   },
   "Sticker | Bolt Strike (Foil)": {
-    "price": 211.0,
-    "last_update": 1782635679.0299673,
-    "avg_3hr": 211.0
+    "price": 212.65,
+    "last_update": 1782645231.4351177,
+    "avg_3hr": 211.825
   },
   "Sticker | Ruby Wave (Lenticular)": {
-    "price": 1039.61,
-    "last_update": 1782635680.621875,
-    "avg_3hr": 1039.61
+    "price": 1054.0,
+    "last_update": 1782645232.9769685,
+    "avg_3hr": 1046.8049999999998
   },
   "Sticker | Lock In": {
-    "price": 5.0,
-    "last_update": 1782635712.6650639,
-    "avg_3hr": 5.0
+    "price": 4.0,
+    "last_update": 1782645265.2193637,
+    "avg_3hr": 4.5
   },
   "Sticker | Candy Apples": {
-    "price": 5.0,
-    "last_update": 1782635714.3490033,
-    "avg_3hr": 5.0
+    "price": 4.73,
+    "last_update": 1782645267.450888,
+    "avg_3hr": 4.865
   },
   "Sticker | Sent With Love": {
-    "price": 8.0,
-    "last_update": 1782635715.822033,
-    "avg_3hr": 8.0
+    "price": 7.8,
+    "last_update": 1782645268.9691849,
+    "avg_3hr": 7.9
   },
   "Sticker | Gloves On": {
     "price": 4.0,
-    "last_update": 1782635717.5484736,
+    "last_update": 1782645270.4877856,
     "avg_3hr": 4.0
   },
   "Sticker | Skelly Stabby": {
-    "price": 5.0,
-    "last_update": 1782635719.0654364,
-    "avg_3hr": 5.0
+    "price": 5.83,
+    "last_update": 1782645272.030693,
+    "avg_3hr": 5.415
   },
   "Sticker | Pop Pup": {
-    "price": 6.0,
-    "last_update": 1782635720.5867157,
-    "avg_3hr": 6.0
+    "price": 8.43,
+    "last_update": 1782645273.9609408,
+    "avg_3hr": 7.215
   },
   "Sticker | POTS": {
-    "price": 3.24,
-    "last_update": 1782635722.0710866,
-    "avg_3hr": 3.24
+    "price": 3.0,
+    "last_update": 1782645276.0631163,
+    "avg_3hr": 3.12
   },
   "Sticker | Bomb Planted (Holo)": {
-    "price": 31.0,
-    "last_update": 1782635723.6994877,
-    "avg_3hr": 31.0
+    "price": 27.68,
+    "last_update": 1782645277.6169097,
+    "avg_3hr": 29.34
   },
   "Sticker | Vice Cursor": {
-    "price": 11.0,
-    "last_update": 1782635725.1694975,
-    "avg_3hr": 11.0
+    "price": 12.41,
+    "last_update": 1782645279.5366664,
+    "avg_3hr": 11.705
   },
   "Sticker | Cubix Connexion": {
     "price": 5.0,
-    "last_update": 1782635726.8313646,
+    "last_update": 1782645281.5268595,
     "avg_3hr": 5.0
   },
   "Sticker | Eyes of Farlow": {
     "price": 26.0,
-    "last_update": 1782635728.3416758,
+    "last_update": 1782645283.0647542,
     "avg_3hr": 26.0
   },
   "Sticker | Fade Mangos": {
     "price": 4.0,
-    "last_update": 1782635729.8591192,
+    "last_update": 1782645284.587938,
     "avg_3hr": 4.0
   },
   "Sticker | Good As New (Foil)": {
-    "price": 475.0,
-    "last_update": 1782635731.4111392,
-    "avg_3hr": 475.0
+    "price": 460.26,
+    "last_update": 1782645286.1089072,
+    "avg_3hr": 467.63
   },
   "Sticker | CT Tracks (Glitter)": {
     "price": 44.0,
-    "last_update": 1782635732.9003952,
+    "last_update": 1782645287.6571193,
     "avg_3hr": 44.0
   },
   "Sticker | Overloaded (Glitter)": {
-    "price": 14.0,
-    "last_update": 1782635734.39184,
-    "avg_3hr": 14.0
+    "price": 13.0,
+    "last_update": 1782645289.1896696,
+    "avg_3hr": 13.5
   },
   "Sticker | Chrome Dome (Holo)": {
-    "price": 389.0,
-    "last_update": 1782635735.864553,
-    "avg_3hr": 389.0
+    "price": 395.0,
+    "last_update": 1782645290.718146,
+    "avg_3hr": 392.0
   },
   "Sticker | Mimicapsule": {
-    "price": 4.0,
-    "last_update": 1782635737.3749309,
-    "avg_3hr": 4.0
+    "price": 3.29,
+    "last_update": 1782645292.2672415,
+    "avg_3hr": 3.645
   },
   "Sticker | Evidence (Holo)": {
-    "price": 72.0,
-    "last_update": 1782635739.0234876,
-    "avg_3hr": 72.0
+    "price": 70.0,
+    "last_update": 1782645294.2008488,
+    "avg_3hr": 71.0
   },
   "Sticker | Cutie (Holo)": {
-    "price": 87.0,
-    "last_update": 1782635740.531149,
-    "avg_3hr": 87.0
+    "price": 98.0,
+    "last_update": 1782645295.7244391,
+    "avg_3hr": 92.5
   },
   "M249 | Sage Camo (Factory New)": {
     "price": 6.0,
-    "last_update": 1782635742.0336995,
+    "last_update": 1782645297.674748,
     "avg_3hr": 6.0
   },
   "Sticker | T Tracks (Glitter)": {
-    "price": 25.0,
-    "last_update": 1782635774.2451832,
-    "avg_3hr": 25.0
+    "price": 26.0,
+    "last_update": 1782645329.874983,
+    "avg_3hr": 25.5
   },
   "P90 | Blue Tac (Minimal Wear)": {
-    "price": 3.0,
-    "last_update": 1782635775.8472948,
-    "avg_3hr": 3.0
+    "price": 2.83,
+    "last_update": 1782645331.405553,
+    "avg_3hr": 2.915
   },
   "Sticker | Lorena": {
     "price": 8.0,
-    "last_update": 1782635777.4636886,
+    "last_update": 1782645332.939979,
     "avg_3hr": 8.0
   },
   "Sticker | Clavis": {
-    "price": 4.05,
-    "last_update": 1782635778.9507222,
-    "avg_3hr": 4.05
+    "price": 5.0,
+    "last_update": 1782645334.5153117,
+    "avg_3hr": 4.525
   },
   "Sticker | BullHit (Lenticular)": {
-    "price": 673.72,
-    "last_update": 1782635780.4383554,
-    "avg_3hr": 673.72
+    "price": 682.0,
+    "last_update": 1782645336.4103003,
+    "avg_3hr": 677.86
   },
   "Sticker | Lucas": {
     "price": 5.0,
-    "last_update": 1782635781.9139922,
+    "last_update": 1782645337.9431508,
     "avg_3hr": 5.0
   },
   "Sticker | Lucas (Holo)": {
     "price": 90.0,
-    "last_update": 1782635783.3961682,
+    "last_update": 1782645339.4784892,
     "avg_3hr": 90.0
   },
   "Sticker | Ribbon Tie": {
-    "price": 87.9,
-    "last_update": 1782635785.0211022,
-    "avg_3hr": 87.9
+    "price": 91.0,
+    "last_update": 1782645341.0131438,
+    "avg_3hr": 89.45
   },
   "Sticker | XD": {
-    "price": 10.8,
-    "last_update": 1782635786.5732205,
-    "avg_3hr": 10.8
+    "price": 10.0,
+    "last_update": 1782645342.5510707,
+    "avg_3hr": 10.4
   },
   "Sticker | Quick Peek": {
-    "price": 22.18,
-    "last_update": 1782635788.070066,
-    "avg_3hr": 22.18
+    "price": 22.0,
+    "last_update": 1782645344.114691,
+    "avg_3hr": 22.09
   },
   "Sticker | Lefty (T)": {
-    "price": 5.88,
-    "last_update": 1782635789.5611596,
-    "avg_3hr": 5.88
+    "price": 6.0,
+    "last_update": 1782645345.6374402,
+    "avg_3hr": 5.9399999999999995
   },
   "Sticker | Strike A Pose": {
-    "price": 8.67,
-    "last_update": 1782635791.0520782,
-    "avg_3hr": 8.67
+    "price": 10.0,
+    "last_update": 1782645347.2098079,
+    "avg_3hr": 9.335
   },
   "Sticker | Lefty (CT)": {
-    "price": 5.16,
-    "last_update": 1782635792.709957,
-    "avg_3hr": 5.16
+    "price": 6.0,
+    "last_update": 1782645349.1269486,
+    "avg_3hr": 5.58
   },
   "Sticker | Glare": {
     "price": 13.0,
-    "last_update": 1782635794.3593066,
+    "last_update": 1782645351.1364496,
     "avg_3hr": 13.0
   },
   "Sticker | From The Deep (Glitter)": {
-    "price": 54.82,
-    "last_update": 1782635795.8435836,
-    "avg_3hr": 54.82
+    "price": 56.0,
+    "last_update": 1782645352.6732183,
+    "avg_3hr": 55.41
   },
   "P90 | Desert Halftone (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635797.5235808,
+    "last_update": 1782645354.198003,
     "avg_3hr": 3.0
   },
   "Sticker | Taste Bud": {
-    "price": 34.33,
-    "last_update": 1782635799.197233,
-    "avg_3hr": 34.33
+    "price": 36.0,
+    "last_update": 1782645355.7489886,
+    "avg_3hr": 35.165
   },
   "AUG | Sweeper (Minimal Wear)": {
-    "price": 3.17,
-    "last_update": 1782635800.6907814,
-    "avg_3hr": 3.17
+    "price": 4.0,
+    "last_update": 1782645357.3032913,
+    "avg_3hr": 3.585
   },
   "AK-47 | Safety Net (Field-Tested)": {
-    "price": 354.0,
-    "last_update": 1782635802.571243,
-    "avg_3hr": 354.0
+    "price": 326.0,
+    "last_update": 1782645359.4339042,
+    "avg_3hr": 340.0
   },
   "MP7 | Army Recon (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635804.0487237,
+    "last_update": 1782645360.9550128,
     "avg_3hr": 3.0
   },
   "SG 553 | Damascus Steel (Minimal Wear)": {
     "price": 64.0,
-    "last_update": 1782635836.0164716,
+    "last_update": 1782645393.2081182,
     "avg_3hr": 64.0
   },
   "Tec-9 | Blue Blast (Field-Tested)": {
-    "price": 3.0,
-    "last_update": 1782635837.491367,
-    "avg_3hr": 3.0
+    "price": 2.83,
+    "last_update": 1782645394.7393506,
+    "avg_3hr": 2.915
   },
   "P90 | Sand Spray (Field-Tested)": {
-    "price": 2.84,
-    "last_update": 1782635838.9782739,
-    "avg_3hr": 2.84
+    "price": 3.0,
+    "last_update": 1782645396.2696207,
+    "avg_3hr": 2.92
   },
   "FAMAS | Teardown (Field-Tested)": {
-    "price": 19.0,
-    "last_update": 1782635840.6109543,
-    "avg_3hr": 19.0
+    "price": 20.0,
+    "last_update": 1782645397.8099937,
+    "avg_3hr": 19.5
   },
   "SSG 08 | Blue Spruce (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635842.0835843,
+    "last_update": 1782645399.3392098,
     "avg_3hr": 3.0
   },
   "MAG-7 | Copper Oxide (Minimal Wear)": {
     "price": 3.0,
-    "last_update": 1782635843.5583458,
+    "last_update": 1782645400.8845496,
     "avg_3hr": 3.0
   },
   "Nova | Mandrel (Minimal Wear)": {
     "price": 2.84,
-    "last_update": 1782635845.1710932,
+    "last_update": 1782645402.4109418,
     "avg_3hr": 2.84
   },
   "UMP-45 | Facility Dark (Factory New)": {
     "price": 8.0,
-    "last_update": 1782635846.7765553,
+    "last_update": 1782645403.9398644,
     "avg_3hr": 8.0
   },
   "Nova | Predator (Field-Tested)": {
-    "price": 3.24,
-    "last_update": 1782635848.258461,
-    "avg_3hr": 3.24
+    "price": 3.0,
+    "last_update": 1782645405.4797132,
+    "avg_3hr": 3.12
   },
   "MP9 | Sand Dashed (Minimal Wear)": {
-    "price": 6.0,
-    "last_update": 1782635849.876852,
-    "avg_3hr": 6.0
+    "price": 5.0,
+    "last_update": 1782645407.007802,
+    "avg_3hr": 5.5
   },
   "P90 | Sand Spray (Battle-Scarred)": {
     "price": 5923.79,
-    "last_update": 1782635851.352215,
+    "last_update": 1782645409.0406368,
     "avg_3hr": 5923.79
   },
   "MAC-10 | Palm (Minimal Wear)": {
     "price": 33.0,
-    "last_update": 1782635853.0015488,
+    "last_update": 1782645410.5838122,
     "avg_3hr": 33.0
   },
   "Zeus x27 | Electric Blue (Field-Tested)": {
-    "price": 4.01,
-    "last_update": 1782635854.6147697,
-    "avg_3hr": 4.01
+    "price": 4.0,
+    "last_update": 1782645412.1132143,
+    "avg_3hr": 4.005
   },
   "SSG 08 | Acid Fade (Factory New)": {
-    "price": 133.68,
-    "last_update": 1782635856.242837,
-    "avg_3hr": 133.68
+    "price": 136.0,
+    "last_update": 1782645413.655238,
+    "avg_3hr": 134.84
   },
   "FAMAS | Palm (Battle-Scarred)": {
     "price": 3.0,
-    "last_update": 1782635857.7285278,
+    "last_update": 1782645415.1932778,
     "avg_3hr": 3.0
   },
   "G3SG1 | Green Cell (Minimal Wear)": {
-    "price": 3.0,
-    "last_update": 1782635859.216249,
-    "avg_3hr": 3.0
+    "price": 2.83,
+    "last_update": 1782645416.7169309,
+    "avg_3hr": 2.915
   },
   "Five-SeveN | Autumn Thicket (Factory New)": {
-    "price": 6.0,
-    "last_update": 1782635860.7108374,
-    "avg_3hr": 6.0
+    "price": 5.77,
+    "last_update": 1782645418.2460616,
+    "avg_3hr": 5.885
   },
   "G3SG1 | Jungle Dashed (Minimal Wear)": {
-    "price": 6.0,
-    "last_update": 1782635862.2258642,
-    "avg_3hr": 6.0
+    "price": 5.27,
+    "last_update": 1782645419.8120875,
+    "avg_3hr": 5.635
   },
   "MP9 | Slide (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635863.7152276,
+    "last_update": 1782645421.903519,
     "avg_3hr": 3.0
   },
   "Negev | Bulkhead (Field-Tested)": {
     "price": 5.0,
-    "last_update": 1782635865.1892784,
+    "last_update": 1782645423.4421637,
     "avg_3hr": 5.0
   },
   "Tec-9 | Army Mesh (Field-Tested)": {
-    "price": 3.0,
-    "last_update": 1782635897.3101327,
-    "avg_3hr": 3.0
+    "price": 2.92,
+    "last_update": 1782645455.7063498,
+    "avg_3hr": 2.96
   },
   "SCAR-20 | Contractor (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635898.8102534,
+    "last_update": 1782645457.227447,
     "avg_3hr": 3.0
   },
   "MP9 | Slide (Battle-Scarred)": {
     "price": 3.0,
-    "last_update": 1782635900.293042,
+    "last_update": 1782645458.761862,
     "avg_3hr": 3.0
   },
   "AUG | Contractor (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635901.7811592,
+    "last_update": 1782645460.2920532,
     "avg_3hr": 3.0
   },
   "SG 553 | Army Sheen (Minimal Wear)": {
     "price": 5.0,
-    "last_update": 1782635903.2734723,
+    "last_update": 1782645461.8236277,
     "avg_3hr": 5.0
   },
   "Desert Eagle | Mudder (Field-Tested)": {
-    "price": 7.0,
-    "last_update": 1782635904.7533367,
-    "avg_3hr": 7.0
+    "price": 8.0,
+    "last_update": 1782645463.3480744,
+    "avg_3hr": 7.5
   },
   "AK-47 | Safari Mesh (Field-Tested)": {
-    "price": 8.18,
-    "last_update": 1782635906.2348855,
-    "avg_3hr": 8.18
+    "price": 9.72,
+    "last_update": 1782645465.3580294,
+    "avg_3hr": 8.95
   },
   "AUG | Storm (Field-Tested)": {
-    "price": 10.0,
-    "last_update": 1782635907.714698,
-    "avg_3hr": 10.0
+    "price": 8.0,
+    "last_update": 1782645467.2801886,
+    "avg_3hr": 9.0
   },
   "SCAR-20 | Sand Mesh (Field-Tested)": {
-    "price": 5.38,
-    "last_update": 1782635909.3388247,
-    "avg_3hr": 5.38
+    "price": 3.0,
+    "last_update": 1782645469.1630738,
+    "avg_3hr": 4.1899999999999995
   },
   "Five-SeveN | Orange Peel (Battle-Scarred)": {
-    "price": 5.0,
-    "last_update": 1782635910.9680738,
-    "avg_3hr": 5.0
+    "price": 4.0,
+    "last_update": 1782645471.1167464,
+    "avg_3hr": 4.5
   },
   "UMP-45 | Mudder (Minimal Wear)": {
-    "price": 4.0,
-    "last_update": 1782635912.6103532,
-    "avg_3hr": 4.0
+    "price": 5.0,
+    "last_update": 1782645473.0850809,
+    "avg_3hr": 4.5
   },
   "AWP | Safari Mesh (Field-Tested)": {
-    "price": 17.58,
-    "last_update": 1782635914.2539663,
-    "avg_3hr": 17.58
+    "price": 20.0,
+    "last_update": 1782645475.0072358,
+    "avg_3hr": 18.79
   },
   "Dual Berettas | Colony (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635915.7311084,
+    "last_update": 1782645476.9286666,
     "avg_3hr": 3.0
   },
   "Sealed Graffiti | Chess King (Wire Blue)": {
     "price": 2.92,
-    "last_update": 1782635917.2411559,
+    "last_update": 1782645478.4820535,
     "avg_3hr": 2.92
   },
   "Sealed Graffiti | Double (Dust Brown)": {
-    "price": 2.83,
-    "last_update": 1782635918.7357407,
-    "avg_3hr": 2.83
+    "price": 3.0,
+    "last_update": 1782645480.0043316,
+    "avg_3hr": 2.915
   },
   "G3SG1 | Polar Camo (Minimal Wear)": {
     "price": 8.0,
-    "last_update": 1782635920.2099168,
+    "last_update": 1782645481.537323,
     "avg_3hr": 8.0
   },
   "Nova | Sand Dune (Field-Tested)": {
-    "price": 6.32,
-    "last_update": 1782635921.8943596,
-    "avg_3hr": 6.32
+    "price": 3.0,
+    "last_update": 1782645483.0777223,
+    "avg_3hr": 4.66
   },
   "Five-SeveN | Coolant (Minimal Wear)": {
-    "price": 4.0,
-    "last_update": 1782635923.6298883,
-    "avg_3hr": 4.0
+    "price": 3.0,
+    "last_update": 1782645484.98185,
+    "avg_3hr": 3.5
   },
   "AUG | Condemned (Battle-Scarred)": {
-    "price": 7.0,
-    "last_update": 1782635925.117147,
-    "avg_3hr": 7.0
+    "price": 4.85,
+    "last_update": 1782645486.908155,
+    "avg_3hr": 5.925
   },
   "Five-SeveN | Forest Night (Well-Worn)": {
     "price": 4.0,
-    "last_update": 1782635926.9159894,
+    "last_update": 1782645488.8302386,
     "avg_3hr": 4.0
   },
   "Sealed Graffiti | Chess King (Monster Purple)": {
-    "price": 2.83,
-    "last_update": 1782635959.0064015,
-    "avg_3hr": 2.83
+    "price": 3.0,
+    "last_update": 1782645521.054796,
+    "avg_3hr": 2.915
   },
   "Sealed Graffiti | Double (SWAT Blue)": {
     "price": 2.87,
-    "last_update": 1782635960.741904,
+    "last_update": 1782645522.600304,
     "avg_3hr": 2.87
   },
   "P90 | Ash Wood (Field-Tested)": {
     "price": 8.0,
-    "last_update": 1782635962.2177615,
+    "last_update": 1782645524.1362104,
     "avg_3hr": 8.0
   },
   "Tec-9 | Urban DDPAT (Minimal Wear)": {
     "price": 12.0,
-    "last_update": 1782635963.8976521,
+    "last_update": 1782645525.683664,
     "avg_3hr": 12.0
   },
   "MP7 | Forest DDPAT (Minimal Wear)": {
-    "price": 10.0,
-    "last_update": 1782635965.3690023,
-    "avg_3hr": 10.0
+    "price": 7.0,
+    "last_update": 1782645527.2250948,
+    "avg_3hr": 8.5
   },
   "Sticker | Evil Geniuses | 2020 RMR": {
     "price": 3.0,
-    "last_update": 1782635967.021177,
+    "last_update": 1782645529.1996977,
     "avg_3hr": 3.0
   },
   "Sealed Graffiti | Cocky (Violent Violet)": {
     "price": 6.0,
-    "last_update": 1782635968.6375477,
+    "last_update": 1782645530.7507396,
     "avg_3hr": 6.0
   },
   "PP-Bizon | Facility Sketch (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782635970.275908,
+    "last_update": 1782645532.2827609,
     "avg_3hr": 3.0
   },
   "UMP-45 | Mudder (Battle-Scarred)": {
     "price": 2.83,
-    "last_update": 1782635971.9202206,
+    "last_update": 1782645533.8436983,
     "avg_3hr": 2.83
   },
   "AUG | Storm (Battle-Scarred)": {
-    "price": 4.0,
-    "last_update": 1782635973.5626366,
-    "avg_3hr": 4.0
+    "price": 3.27,
+    "last_update": 1782645535.378116,
+    "avg_3hr": 3.635
   },
   "Tec-9 | Groundwater (Field-Tested)": {
-    "price": 2.86,
-    "last_update": 1782635975.0554094,
-    "avg_3hr": 2.86
+    "price": 2.89,
+    "last_update": 1782645537.4008405,
+    "avg_3hr": 2.875
   },
   "P250 | Boreal Forest (Field-Tested)": {
-    "price": 4.0,
-    "last_update": 1782635976.686354,
-    "avg_3hr": 4.0
+    "price": 2.87,
+    "last_update": 1782645538.933228,
+    "avg_3hr": 3.435
   },
   "G3SG1 | Polar Camo (Field-Tested)": {
-    "price": 3.0,
-    "last_update": 1782635978.4515343,
-    "avg_3hr": 3.0
+    "price": 2.84,
+    "last_update": 1782645540.8138692,
+    "avg_3hr": 2.92
   },
   "R8 Revolver | Nitro (Field-Tested)": {
     "price": 15.0,
-    "last_update": 1782635979.9809597,
+    "last_update": 1782645542.332363,
     "avg_3hr": 15.0
   },
   "MP5-SD | Dirt Drop (Field-Tested)": {
-    "price": 5.38,
-    "last_update": 1782635981.6679559,
-    "avg_3hr": 5.38
+    "price": 3.0,
+    "last_update": 1782645543.8627422,
+    "avg_3hr": 4.1899999999999995
   },
   "PP-Bizon | Sand Dashed (Field-Tested)": {
-    "price": 2.92,
-    "last_update": 1782635983.571751,
-    "avg_3hr": 2.92
+    "price": 3.0,
+    "last_update": 1782645545.8074808,
+    "avg_3hr": 2.96
   },
   "R8 Revolver | Crimson Web (Field-Tested)": {
     "price": 41.0,
-    "last_update": 1782635985.3134933,
+    "last_update": 1782645547.368108,
     "avg_3hr": 41.0
   },
   "G3SG1 | Green Apple (Field-Tested)": {
-    "price": 13.0,
-    "last_update": 1782635986.8100154,
-    "avg_3hr": 13.0
+    "price": 12.0,
+    "last_update": 1782645548.9040322,
+    "avg_3hr": 12.5
   },
   "P2000 | Turf (Well-Worn)": {
     "price": 76.0,
-    "last_update": 1782635988.3071923,
+    "last_update": 1782645550.4454439,
     "avg_3hr": 76.0
   },
   "Sealed Graffiti | 8-Ball (Battle Green)": {
     "price": 4.0,
-    "last_update": 1782635989.778957,
+    "last_update": 1782645551.97784,
     "avg_3hr": 4.0
   },
   "Sawed-Off | Forest DDPAT (Field-Tested)": {
-    "price": 3.79,
-    "last_update": 1782636022.1474433,
-    "avg_3hr": 3.79
+    "price": 5.0,
+    "last_update": 1782645584.19373,
+    "avg_3hr": 4.395
   },
   "PP-Bizon | Candy Apple (Minimal Wear)": {
     "price": 13.0,
-    "last_update": 1782636023.8349729,
+    "last_update": 1782645586.2189357,
     "avg_3hr": 13.0
   },
   "Sealed Graffiti | Death Sentence (Wire Blue)": {
     "price": 3.0,
-    "last_update": 1782636025.334286,
+    "last_update": 1782645587.7580605,
     "avg_3hr": 3.0
   },
   "G3SG1 | Desert Storm (Minimal Wear)": {
-    "price": 4.3,
-    "last_update": 1782636026.8122976,
-    "avg_3hr": 4.3
+    "price": 5.0,
+    "last_update": 1782645589.2996767,
+    "avg_3hr": 4.65
   },
   "Nova | Polar Mesh (Field-Tested)": {
-    "price": 2.91,
-    "last_update": 1782636028.6532624,
-    "avg_3hr": 2.91
+    "price": 3.0,
+    "last_update": 1782645591.2522595,
+    "avg_3hr": 2.955
   },
   "Sealed Graffiti | 8-Ball (War Pig Pink)": {
-    "price": 4.0,
-    "last_update": 1782636030.3166456,
-    "avg_3hr": 4.0
+    "price": 3.78,
+    "last_update": 1782645592.7814305,
+    "avg_3hr": 3.8899999999999997
   },
   "Sealed Graffiti | Eat It (Cash Green)": {
     "price": 3.0,
-    "last_update": 1782636031.8190637,
+    "last_update": 1782645594.3106332,
     "avg_3hr": 3.0
   },
   "Sealed Graffiti | Cocky (SWAT Blue)": {
-    "price": 7.0,
-    "last_update": 1782636033.3369937,
-    "avg_3hr": 7.0
+    "price": 6.2,
+    "last_update": 1782645595.859089,
+    "avg_3hr": 6.6
   },
   "Dual Berettas | Stained (Field-Tested)": {
-    "price": 18.0,
-    "last_update": 1782636034.9807508,
-    "avg_3hr": 18.0
+    "price": 13.0,
+    "last_update": 1782645597.8742194,
+    "avg_3hr": 15.5
   },
   "SG 553 | Army Sheen (Factory New)": {
-    "price": 9.0,
-    "last_update": 1782636036.483375,
-    "avg_3hr": 9.0
+    "price": 7.0,
+    "last_update": 1782645599.8127651,
+    "avg_3hr": 8.0
   },
   "Sealed Graffiti | Chess King (Tracer Yellow)": {
     "price": 3.0,
-    "last_update": 1782636038.0985606,
+    "last_update": 1782645601.9902477,
     "avg_3hr": 3.0
   },
   "P250 | Sand Dune (Field-Tested)": {
-    "price": 3.0,
-    "last_update": 1782636039.6370902,
-    "avg_3hr": 3.0
+    "price": 5.4,
+    "last_update": 1782645603.5438182,
+    "avg_3hr": 4.2
   },
   "SG 553 | Waves Perforated (Field-Tested)": {
-    "price": 3.24,
-    "last_update": 1782636041.3798172,
-    "avg_3hr": 3.24
+    "price": 3.0,
+    "last_update": 1782645607.8432662,
+    "avg_3hr": 3.12
   },
   "Glock-18 | Death Rattle (Field-Tested)": {
     "price": 13.0,
-    "last_update": 1782636042.8671186,
+    "last_update": 1782645609.3984497,
     "avg_3hr": 13.0
   },
   "UMP-45 | Urban DDPAT (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782636044.5152304,
+    "last_update": 1782645610.9225414,
     "avg_3hr": 3.0
   },
   "FAMAS | Colony (Field-Tested)": {
     "price": 3.0,
-    "last_update": 1782636046.2630932,
+    "last_update": 1782645612.4575176,
     "avg_3hr": 3.0
   },
   "Tec-9 | Groundwater (Minimal Wear)": {
     "price": 8.0,
-    "last_update": 1782636047.747974,
+    "last_update": 1782645614.021323,
     "avg_3hr": 8.0
   },
   "XM1014 | Blue Steel (Field-Tested)": {
     "price": 7.0,
-    "last_update": 1782636049.2398217,
+    "last_update": 1782645615.5598557,
     "avg_3hr": 7.0
   },
   "FAMAS | Cyanospatter (Field-Tested)": {
-    "price": 4.16,
-    "last_update": 1782636050.718645,
-    "avg_3hr": 4.16
+    "price": 7.0,
+    "last_update": 1782645617.1096504,
+    "avg_3hr": 5.58
   },
   "XM1014 | Blue Spruce (Field-Tested)": {
     "price": 5.0,
-    "last_update": 1782636052.3411577,
+    "last_update": 1782645619.0093799,
     "avg_3hr": 5.0
   },
   "MP5-SD | Dirt Drop (Battle-Scarred)": {
     "price": 3.0,
-    "last_update": 1782636084.4423208,
+    "last_update": 1782645651.1801453,
     "avg_3hr": 3.0
   },
   "UMP-45 | Carbon Fiber (Factory New)": {
     "price": 26.0,
-    "last_update": 1782636085.9505067,
+    "last_update": 1782645652.7164164,
     "avg_3hr": 26.0
   },
   "Five-SeveN | Forest Night (Minimal Wear)": {
-    "price": 8.0,
-    "last_update": 1782636087.5095031,
-    "avg_3hr": 8.0
+    "price": 6.0,
+    "last_update": 1782645654.2574296,
+    "avg_3hr": 7.0
   },
   "Sealed Graffiti | Eat It (Tracer Yellow)": {
     "price": 3.0,
-    "last_update": 1782636089.2389688,
+    "last_update": 1782645656.2614799,
     "avg_3hr": 3.0
   },
   "Sealed Graffiti | 8-Ball (Monarch Blue)": {
-    "price": 3.47,
-    "last_update": 1782636090.721917,
-    "avg_3hr": 3.47
+    "price": 7.17,
+    "last_update": 1782645657.9319968,
+    "avg_3hr": 5.32
   },
   "Sealed Graffiti | Double (Tiger Orange)": {
-    "price": 2.92,
-    "last_update": 1782636092.2519493,
-    "avg_3hr": 2.92
+    "price": 3.0,
+    "last_update": 1782645659.827945,
+    "avg_3hr": 2.96
   },
   "XM1014 | CaliCamo (Field-Tested)": {
-    "price": 14.0,
-    "last_update": 1782636093.7616584,
-    "avg_3hr": 14.0
+    "price": 16.0,
+    "last_update": 1782645661.3748455,
+    "avg_3hr": 15.0
   },
   "Souvenir UMP-45 | Scorched (Field-Tested)": {
-    "price": 27.0,
-    "last_update": 1782636095.447836,
-    "avg_3hr": 27.0
+    "price": 24.0,
+    "last_update": 1782645663.3991196,
+    "avg_3hr": 25.5
   },
   "Sawed-Off | Origami (Battle-Scarred)": {
     "price": 37.0,
-    "last_update": 1782636096.9526439,
+    "last_update": 1782645665.30639,
     "avg_3hr": 37.0
   },
   "Nova | Candy Apple (Minimal Wear)": {
     "price": 20.0,
-    "last_update": 1782636098.423745,
+    "last_update": 1782645666.9189072,
     "avg_3hr": 20.0
   },
   "Negev | Dazzle (Field-Tested)": {
-    "price": 41.0,
-    "last_update": 1782636100.0155652,
-    "avg_3hr": 41.0
+    "price": 35.0,
+    "last_update": 1782645668.4546852,
+    "avg_3hr": 38.0
   },
   "MP7 | Armor Core (Minimal Wear)": {
     "price": 71.0,
-    "last_update": 1782636101.768196,
+    "last_update": 1782645670.4657679,
     "avg_3hr": 71.0
   },
   "Sealed Graffiti | Eat It (Frog Green)": {
     "price": 2.84,
-    "last_update": 1782636103.2508936,
+    "last_update": 1782645672.0129454,
     "avg_3hr": 2.84
   },
   "PP-Bizon | Night Ops (Field-Tested)": {
     "price": 6.0,
-    "last_update": 1782636104.7311678,
+    "last_update": 1782645673.5446374,
     "avg_3hr": 6.0
   },
   "Sealed Graffiti | Chess King (Dust Brown)": {
@@ -875,8 +875,8 @@
     "avg_3hr": 3.0
   },
   "SSG 08 | Green Ceramic (Minimal Wear)": {
-    "price": 3.0,
-    "last_update": 1782635587.5539126,
-    "avg_3hr": 3.0
+    "price": 2.79,
+    "last_update": 1782645135.3441374,
+    "avg_3hr": 2.895
   }
 }
